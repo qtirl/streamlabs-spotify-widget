@@ -1,6 +1,6 @@
 # 🎵 Streamlabs Spotify Widget 🎵
 
-Elevate your live streaming experience with our widget, effortlessly displaying the track you're currently playing on Spotify through OBS/Streamlabs.
+Elevate your live streaming experience with this widget, effortlessly displaying the track you're currently playing on Spotify through OBS/Streamlabs.
 
 ---
 
