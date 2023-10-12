@@ -13,6 +13,7 @@ You will need to change these values to the client ID and client secret located 
 Once this step is completed save the file and run the .exe file. For your first time running the app you will need to login to spotify with your account information. It will be remembered for any uses afterwards.
 
 Your app should now be connected to spotify, you can now connect it to OBS/Streamlabs by adding a new scene and selecting "Browser Source".
+
 ![image](https://github.com/qtirl/streamlabs-spotify-widget/assets/22341222/802425c8-8b37-4859-88d8-d9ee91420fb5)
 
 
