@@ -1,2 +1,2 @@
 # streamlabs-spotify-widget
-A widget enabling the display of your current Spotify playback on your live stream.
+Enhance your live stream with our widget that seamlessly showcases your currently playing Spotify track via OBS/Streamlabs.
