@@ -39,3 +39,6 @@ Elevate your live streaming experience with this widget, effortlessly displaying
 3. **🎤 Test the Widget**: 
    - Play a song on Spotify. 
    - On your stream, you should see the track details displayed. Feel free to customize the widget's size and position to suit your stream's aesthetics. Enjoy streaming! 🎉
+  
+   - ![image](https://github.com/qtirl/streamlabs-spotify-widget/assets/22341222/c52be294-a8cc-42ed-8c68-9a40a7a0f98d)
+
