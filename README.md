@@ -27,7 +27,6 @@ Elevate your live streaming experience with our widget, effortlessly displaying 
 1. **Add a New Scene**: 
    - In OBS/Streamlabs, create a new scene.
    - Choose "Browser Source" as your source.
-     ![Browser Source Preview](https://github.com/qtirl/streamlabs-spotify-widget/assets/22341222/802425c8-8b37-4859-88d8-d9ee91420fb5)
 
 2. **Configure Browser Source**: 
    - Adjust the "Browser Source" settings to match the provided setup.
